@@ -1,2 +1,2 @@
 # PracticeOf0
-0's practice project codes
+0's practicing project-codes
